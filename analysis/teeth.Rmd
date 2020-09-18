@@ -34,5 +34,5 @@ mean(teeth$len[supp_perm == "OJ"]) - mean(teeth$len[supp_perm == "VC"])
 ```
 
 
-```
+
 
